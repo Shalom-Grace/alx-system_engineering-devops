@@ -1,1 +1,1 @@
-This is a shell project
+Shell permission readme
